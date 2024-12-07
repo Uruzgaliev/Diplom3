@@ -1,0 +1,6 @@
+PageObjects\HomePage.class
+PageObjects\RegistrationPage.class
+PageObjects\UserAccountPage.class
+PageObjects\ResetPasswordPage.class
+org\example\Main.class
+PageObjects\LoginPage.class
